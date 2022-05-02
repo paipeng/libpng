@@ -1,0 +1,14 @@
+C:/Users/paipeng/git/libpng/build/CMakeFiles/genfiles.dir
+C:/Users/paipeng/git/libpng/build/CMakeFiles/png.dir
+C:/Users/paipeng/git/libpng/build/CMakeFiles/png_static.dir
+C:/Users/paipeng/git/libpng/build/CMakeFiles/pngtest.dir
+C:/Users/paipeng/git/libpng/build/CMakeFiles/pngvalid.dir
+C:/Users/paipeng/git/libpng/build/CMakeFiles/pngstest.dir
+C:/Users/paipeng/git/libpng/build/CMakeFiles/pngunknown.dir
+C:/Users/paipeng/git/libpng/build/CMakeFiles/pngimage.dir
+C:/Users/paipeng/git/libpng/build/CMakeFiles/pngfix.dir
+C:/Users/paipeng/git/libpng/build/CMakeFiles/png-fix-itxt.dir
+C:/Users/paipeng/git/libpng/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/paipeng/git/libpng/build/CMakeFiles/INSTALL.dir
+C:/Users/paipeng/git/libpng/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/paipeng/git/libpng/build/CMakeFiles/ZERO_CHECK.dir

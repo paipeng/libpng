@@ -1,0 +1,35 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeASMInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/MSVC-ASM.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/SelectLibraryConfigurations.cmake
+C:/Users/paipeng/git/libpng/CMakeLists.txt
+C:/Users/paipeng/git/libpng/build/CMakeFiles/3.23.1/CMakeASMCompiler.cmake
+C:/Users/paipeng/git/libpng/build/CMakeFiles/3.23.1/CMakeCCompiler.cmake
+C:/Users/paipeng/git/libpng/build/CMakeFiles/3.23.1/CMakeRCCompiler.cmake
+C:/Users/paipeng/git/libpng/build/CMakeFiles/3.23.1/CMakeSystem.cmake
+C:/Users/paipeng/git/libpng/scripts/genchk.cmake.in
+C:/Users/paipeng/git/libpng/scripts/genout.cmake.in
+C:/Users/paipeng/git/libpng/scripts/gensrc.cmake.in
+C:/Users/paipeng/git/libpng/scripts/pnglibconf.h.prebuilt
+C:/Users/paipeng/git/libpng/scripts/test.cmake.in
